@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file.
 Preferably use **Added**, **Changed**, **Removed** and **Fixed** topics in each release or unreleased log for a better organization.
 
 ## Unreleased
+
+## [1.0.0](https://github.com/quintoandar/butterfree/releases/tag/1.0.0)
+### Added
+* Add license ([#185](https://github.com/quintoandar/butterfree/pull/185))
+* [MLOP-386] Create PR Guideline on CONTRIBUTING.md ([#190](https://github.com/quintoandar/butterfree/pull/190))
+* [MLOP-390] Create method to get feature sets' description ([#188](https://github.com/quintoandar/butterfree/pull/188)) 
+
+### Changed
+* [MLOP-376] Change spark version on Butterfree ([#177](https://github.com/quintoandar/butterfree/pull/177))
+* [MLOP-344] Update README with documentation ([#175](https://github.com/quintoandar/butterfree/pull/175))
+* [MLOP-375] Refactor Sink and OnlineFeatureStore write to entity flow ([#182](https://github.com/quintoandar/butterfree/pull/182))
+* [MLOP-363] DB Credentials Setup Refactor ([#187](https://github.com/quintoandar/butterfree/pull/187))
+* [MLOP-404] Restructuring of Butterfree folder and imports ([#192](https://github.com/quintoandar/butterfree/pull/192)) 
+
+### Fixed
+* Updated aggregated feature set notebook examples ([#179](https://github.com/quintoandar/butterfree/pull/179))
+* [MLOP-392] Fix docstrings for ReadtheDocs ([#186](https://github.com/quintoandar/butterfree/pull/186))
+
 ## [0.10.3](https://github.com/quintoandar/butterfree/releases/tag/0.10.3)
 ### Fixed
 * [MLOP-370] Bug in streaming feature sets ([#178](https://github.com/quintoandar/butterfree/pull/178))
